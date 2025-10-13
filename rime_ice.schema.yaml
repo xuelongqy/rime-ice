@@ -50,6 +50,7 @@ engine:
     - selector
     - navigator
     - express_editor
+    - lua_processor@cloud_pinyin_processor
   segmentors:
     - ascii_segmentor
     - matcher
@@ -70,6 +71,7 @@ engine:
     - lua_translator@*number_translator  # 数字、金额大写
     - lua_translator@*calc_translator    # 计算器
     - lua_translator@*force_gc           # 暴力 GC
+    - lua_translator@cloud_pinyin_translator
   filters:
     - lua_filter@*corrector                         # 错音错字提示
     - reverse_lookup_filter@radical_reverse_lookup  # 部件拆字滤镜
