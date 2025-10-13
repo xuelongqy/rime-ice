@@ -1,6 +1,6 @@
 local json = require("json")
--- local http = require("simplehttp")
--- http.TIMEOUT = 1.5
+local http = require("simplehttp")
+http.TIMEOUT = 1.5
 
 local function make_url(input, num)
     return 'https://inputtools.google.com/request?text=' ..
@@ -17,8 +17,8 @@ end
 
 local function translator(input, seg)
     local url = make_url(input, 5)
-    -- local reply = http.request(url)
-    local reply = http_get(url)
+    local reply = http.request(url)
+    -- local reply = http_get(url)
     local _, j = pcall(json.decode, reply)
     if j[1] == 'SUCCESS' and j[2] and j[2][1] then
         for i, v in ipairs(j[2][1][2]) do
