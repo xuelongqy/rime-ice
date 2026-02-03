@@ -17,7 +17,7 @@
 # 转化应当大写的单词
 ---
 name: en
-version: "2025-12-01"
+version: "2026-01-28"
 sort: by_weight
 ...
 # +_+
@@ -550,6 +550,7 @@ alchemy	alchemy
 alcohol	alcohol
 alcoholic	alcoholic
 alcoholism	alcoholism
+alderman	alderman
 ale	ale
 Alec	Alec
 alembic	alembic
@@ -594,6 +595,7 @@ alkaline	alkaline
 alkalinity	alkalinity
 alkaloid	alkaloid
 all	all
+all-in-one	all-in-one
 # alla	alla
 Allah	Allah
 Allan	Allan
@@ -807,6 +809,7 @@ Andreas	Andreas
 Andrew	Andrew
 Andrews	Andrews
 androecium	androecium
+android	android
 Andy	Andy
 anecdote	anecdote
 anemia	anemia
@@ -863,6 +866,8 @@ announcements	announcements
 announces	announces
 announcing	announcing
 annoy	annoy
+annoyance	annoyance
+annoyances	annoyances
 annoyed	annoyed
 annoying	annoying
 annual	annual
@@ -894,6 +899,7 @@ anther	anther
 anthology	anthology
 Anthony	Anthony
 anthrax	anthrax
+anthropic	anthropic
 anthropology	anthropology
 anti	anti
 antibiotic	antibiotic
@@ -1089,6 +1095,7 @@ are	are
 area	area
 areas	areas
 arena	arena
+arenas	arenas
 areola	areola
 Ares	Ares
 arg	arg
@@ -1587,6 +1594,7 @@ backing	backing
 backpack	backpack
 backpacking	backpacking
 backpacks	backpacks
+backpropagation	backpropagation
 backs	backs
 backslash	backslash
 backstage	backstage
@@ -1617,7 +1625,6 @@ Bahrain	Bahrain
 baht	baht
 bail	bail
 bailey	bailey
-Bailey	Bailey
 bait	bait
 Baja	Baja
 bake	bake
@@ -2038,7 +2045,7 @@ billboard	billboard
 billed	billed
 billiard	billiard
 billiards	billiards
-billie	billie
+Billie	Billie
 billing	billing
 billings	billings
 billion	billion
@@ -2827,6 +2834,7 @@ calloused	calloused
 calls	calls
 callus	callus
 calm	calm
+calmer	calmer
 calorie	calorie
 calories	calories
 Calvin	Calvin
@@ -2937,6 +2945,7 @@ capturing	capturing
 capybara	capybara
 car	car
 carat	carat
+carats	carats
 caravan	caravan
 carb	carb
 carbohydrate	carbohydrate
@@ -3078,6 +3087,7 @@ categories	categories
 categorized	categorized
 category	category
 cater	cater
+caterer	caterer
 catering	catering
 caterpillar	caterpillar
 cathedral	cathedral
@@ -3166,6 +3176,7 @@ cemeteries	cemeteries
 cemetery	cemetery
 # Cen	Cen
 censor	censor
+censored	censored
 censorship	censorship
 census	census
 cent	cent
@@ -3340,6 +3351,7 @@ checked	checked
 checker	checker
 checking	checking
 checklist	checklist
+checkmate	checkmate
 checkout	checkout
 checkpoint	checkpoint
 checks	checks
@@ -3411,8 +3423,8 @@ childcare	childcare
 childhood	childhood
 childish	childish
 children	children
-childrens	childrens
-childs	childs
+# childrens	childrens
+# childs	childs
 chile	chile
 Chilean	Chilean
 chili	chili
@@ -3735,7 +3747,6 @@ cmd	cmd
 # cme	cme
 # cmos	cmos
 # cmp	cmp
-CMS	CMS
 CN	CN
 # cnc	cnc
 CNET	CNET
@@ -4309,6 +4320,7 @@ constructive	constructive
 constructor	constructor
 constructs	constructs
 construed	construed
+consul	consul
 consulate	consulate
 consult	consult
 consultancy	consultancy
@@ -4581,6 +4593,7 @@ cottage	cottage
 cottages	cottages
 cotton	cotton
 couch	couch
+couches	couches
 cough	cough
 could	could
 council	council
@@ -5307,6 +5320,7 @@ demanding	demanding
 demands	demands
 dementia	dementia
 # demi	demi
+demise	demise
 demo	demo
 democracy	democracy
 democrat	democrat
@@ -5853,6 +5867,7 @@ distance	distance
 distances	distances
 distant	distant
 distill	distill
+distillation	distillation
 distinct	distinct
 distinction	distinction
 distinctive	distinctive
@@ -6056,6 +6071,7 @@ downloading	downloading
 downloads	downloads
 downpour	downpour
 downs	downs
+downside	downside
 downstairs	downstairs
 downstream	downstream
 downtime	downtime
@@ -6399,6 +6415,7 @@ Edward	Edward
 Edwards	Edwards
 Edwin	Edwin
 # ee	ee
+eel	eel
 # een	een
 # ef	ef
 eff	eff
@@ -6477,7 +6494,7 @@ electronics	electronics
 electrons	electrons
 elegance	elegance
 elegant	elegant
-elem	elem
+# elem	elem
 element	element
 elemental	elemental
 elementary	elementary
@@ -6505,6 +6522,7 @@ Eliot	Eliot
 # elisa	elisa
 Elisabeth	Elisabeth
 elite	elite
+elixir	elixir
 Eliza	Eliza
 Elizabeth	Elizabeth
 # elk	elk
@@ -6536,10 +6554,12 @@ embarrassing	embarrassing
 embassy	embassy
 embed	embed
 embedded	embedded
+embedding	embedding
 embellish	embellish
 embellishment	embellishment
 # embl	embl
 emblem	emblem
+emblems	emblems
 embodiment	embodiment
 embody	embody
 embrace	embrace
@@ -6654,6 +6674,7 @@ endeavour	endeavour
 ended	ended
 endif	endif
 ending	ending
+endive	endive
 endless	endless
 endlessly	endlessly
 endocrine	endocrine
@@ -7502,6 +7523,7 @@ fewer	fewer
 # fh	fh
 # fha	fha
 # fi	fi
+fiance	fiance
 FIAT	FIAT
 fiber	fiber
 fiberglass	fiberglass
@@ -7589,6 +7611,7 @@ findings	findings
 findlaw	findlaw
 finds	finds
 fine	fine
+fine-tuning	fine-tuning
 fined	fined
 finely	finely
 FinePix	FinePix
@@ -7849,6 +7872,7 @@ footprint	footprint
 footstep	footstep
 footwear	footwear
 for	for
+fora	fora
 Forbes	Forbes
 forbid	forbid
 forbidden	forbidden
@@ -7998,6 +8022,7 @@ Francois	Francois
 francs	francs
 frank	frank
 Frank	Frank
+Frankenstein	Frankenstein
 Frankfurt	Frankfurt
 Frankie	Frankie
 Franklin	Franklin
@@ -8081,6 +8106,7 @@ from	from
 front	front
 front-page	front-page
 frontal	frontal
+frontend	frontend
 frontgate	frontgate
 frontier	frontier
 frontiers	frontiers
@@ -8279,6 +8305,7 @@ gather	gather
 gathered	gathered
 gathering	gathering
 gatherings	gatherings
+Gatsby	Gatsby
 Gatwick	Gatwick
 gauge	gauge
 gauges	gauges
@@ -8477,6 +8504,8 @@ Glenn	Glenn
 glide	glide
 glider	glider
 glimpse	glimpse
+glisten	glisten
+glistening	glistening
 glitter	glitter
 # gln	gln
 global	global
@@ -8546,6 +8575,7 @@ golf	golf
 golfers	golfers
 golfing	golfing
 Gomez	Gomez
+gomoku	gomoku
 gone	gone
 gong	gong
 gonna	gonna
@@ -8562,6 +8592,7 @@ goodness	goodness
 goods	goods
 goodwill	goodwill
 Goodwin	Goodwin
+gooey	gooey
 Google	Google
 goose	goose
 # gop	gop
@@ -8883,6 +8914,7 @@ Haitian	Haitian
 hale	hale
 half	half
 halfway	halfway
+halibut	halibut
 Halifax	Halifax
 hall	hall
 hallmark	hallmark
@@ -9173,6 +9205,7 @@ helps	helps
 Helsinki	Helsinki
 hem	hem
 hemisphere	hemisphere
+hemispherical	hemispherical
 hemp	hemp
 hen	hen
 hence	hence
@@ -10810,6 +10843,7 @@ juxtapose	juxtapose
 # jw	jw
 # k	k
 # ka	ka
+Kafka	Kafka
 # kai	kai
 Kaiser	Kaiser
 Kalamazoo	Kalamazoo
@@ -10952,6 +10986,7 @@ kinetic	kinetic
 kinetics	kinetics
 king	king
 kingdom	kingdom
+kingdoms	kingdoms
 kings	kings
 Kingston	Kingston
 kinky	kinky
@@ -11315,6 +11350,7 @@ lee	lee
 leech	leech
 Leeds	Leeds
 leek	leek
+leeway	leeway
 left	left
 leg	leg
 legacy	legacy
@@ -11463,6 +11499,7 @@ lichen	lichen
 lick	lick
 licking	licking
 lid	lid
+lido	lido
 lie	lie
 Liechtenstein	Liechtenstein
 lied	lied
@@ -11534,6 +11571,7 @@ linden	linden
 Lindsay	Lindsay
 Lindsey	Lindsey
 line	line
+linea	linea
 lineage	lineage
 linear	linear
 lined	lined
@@ -11740,6 +11778,7 @@ loosen	loosen
 loot	loot
 Lopez	Lopez
 loquat	loquat
+Lora	Lora
 lord	lord
 lords	lords
 lore	lore
@@ -12348,7 +12387,8 @@ medicinal	medicinal
 medicine	medicine
 medicines	medicines
 medieval	medieval
-medina	medina
+Medina	Medina
+mediocrity	mediocrity
 meditate	meditate
 meditation	meditation
 mediterranean	mediterranean
@@ -12478,6 +12518,8 @@ metals	metals
 metamorphose	metamorphose
 metaphor	metaphor
 metasearch	metasearch
+metaverse	metaverse
+Meteora	Meteora
 meteorological	meteorological
 meteorology	meteorology
 meter	meter
@@ -12718,6 +12760,7 @@ mistaken	mistaken
 mistakes	mistakes
 Mister	Mister
 mister	mister
+Mistral	Mistral
 mistress	mistress
 misty	misty
 misunderstand	misunderstand
@@ -12827,6 +12870,7 @@ mommy	mommy
 Mon.	Mon.
 Mona	Mona
 Monaco	Monaco
+monad	monad
 monarch	monarch
 monastery	monastery
 Monday	Monday
@@ -13170,6 +13214,7 @@ narration	narration
 narrative	narrative
 narrator	narrator
 narrow	narrow
+nary	nary
 NAS	NAS
 NASA	NASA
 nasal	nasal
@@ -13676,6 +13721,7 @@ oblique	oblique
 # obs	obs
 obscene	obscene
 obscure	obscure
+observability	observability
 observation	observation
 observations	observations
 observatory	observatory
@@ -13794,6 +13840,8 @@ oily	oily
 # OK	OK
 ok	ok
 okay	okay
+okey	okey
+okey-dokey	okey-dokey
 # oki	oki
 Oklahoma	Oklahoma
 okra	okra
@@ -13824,6 +13872,8 @@ Omar	Omar
 # omb	omb
 ombudsman	ombudsman
 omega	omega
+omelet	omelet
+omelette	omelette
 OMG	OMG
 omicron	omicron
 omission	omission
@@ -13993,6 +14043,7 @@ oriental	oriental
 orientation	orientation
 oriented	oriented
 orig	orig
+origami	origami
 origin	origin
 original	original
 originality	originality
@@ -14263,6 +14314,7 @@ panic	panic
 panorama	panorama
 panoramic	panoramic
 pans	pans
+pansy	pansy
 pant	pant
 # pantera	pantera
 panther	panther
@@ -14782,6 +14834,7 @@ physiol	physiol
 physiological	physiological
 physiology	physiology
 physiopathology	physiopathology
+phytosanitary	phytosanitary
 pi	pi
 pianist	pianist
 piano	piano
@@ -15189,6 +15242,7 @@ possibility	possibility
 possible	possible
 possibly	possibly
 post	post
+post-training	post-training
 postage	postage
 postal	postal
 postcard	postcard
@@ -15287,9 +15341,11 @@ prayers	prayers
 praying	praying
 # prc	prc
 # pre	pre
+pre-training	pre-training
 preach	preach
 preacher	preacher
 preaching	preaching
+preact	preact
 precaution	precaution
 precautions	precautions
 precede	precede
@@ -15477,6 +15533,7 @@ prior	prior
 priorities	priorities
 priority	priority
 prism	prism
+prisma	prisma
 prison	prison
 prisoner	prisoner
 prisoners	prisoners
@@ -15526,6 +15583,7 @@ processor	processor
 processors	processors
 proclaim	proclaim
 proclaimed	proclaimed
+procumbent	procumbent
 procurement	procurement
 prod	prod
 produce	produce
@@ -15582,6 +15640,7 @@ prohibition	prohibition
 prohibits	prohibits
 project	project
 projected	projected
+projectile	projectile
 projection	projection
 projections	projections
 projector	projector
@@ -15896,6 +15955,7 @@ quantify	quantify
 quantitative	quantitative
 quantities	quantities
 quantity	quantity
+quantization	quantization
 quantum	quantum
 quark	quark
 quarrel	quarrel
@@ -16307,6 +16367,7 @@ reef	reef
 reel	reel
 reels	reels
 Reese	Reese
+reeve	reeve
 reeves	reeves
 # ref	ref
 refer	refer
@@ -16431,6 +16492,7 @@ rejected	rejected
 rejection	rejection
 rejects	rejects
 rejoice	rejoice
+rejuvenation	rejuvenation
 # rel	rel
 relate	relate
 related	related
@@ -16669,6 +16731,7 @@ resin	resin
 resist	resist
 resistance	resistance
 resistant	resistant
+resisted	resisted
 resistor	resistor
 resize	resize
 resolute	resolute
@@ -17251,6 +17314,7 @@ salon	salon
 # salons	salons
 saloon	saloon
 salsa	salsa
+salsify	salsify
 salt	salt
 salts	salts
 saltwater	saltwater
@@ -17390,6 +17454,7 @@ sbjct	sbjct
 # sbs	sbs
 # sc	sc
 # sca	sca
+Scala	Scala
 scalability	scalability
 scalable	scalable
 scalar	scalar
@@ -17514,6 +17579,7 @@ scrape	scrape
 scraps	scraps
 scratch	scratch
 scratches	scratches
+scrawny	scrawny
 scream	scream
 screaming	screaming
 screen	screen
@@ -17679,6 +17745,7 @@ selector	selector
 selects	selects
 selenium	selenium
 self	self
+self-attention	Self-attention
 selfish	selfish
 sell	sell
 seller	seller
@@ -17731,6 +17798,7 @@ sentenced	sentenced
 sentences	sentences
 sentencing	sentencing
 sentiment	sentiment
+sentimental	sentimental
 sentinel	sentinel
 sentineled	sentineled
 sentineling	sentineling
@@ -17766,6 +17834,7 @@ sequential	sequential
 Serbia	Serbia
 Serbian	Serbian
 Serena	Serena
+serendipity	serendipity
 serenity	serenity
 sergeant	sergeant
 # sergio	sergio
@@ -18509,6 +18578,7 @@ Sophia	Sophia
 sophisticated	sophisticated
 sophomore	sophomore
 soprano	soprano
+sora	sora
 sorcerer	sorcerer
 sorcerers	sorcerers
 sore	sore
@@ -18793,6 +18863,8 @@ stab	stab
 stability	stability
 stabilization	stabilization
 stable	stable
+stablecoin	stablecoin
+stablecoins	stablecoins
 Stacey	Stacey
 stack	stack
 stacked	stacked
@@ -18864,7 +18936,6 @@ stark	stark
 # starr	starr
 starring	starring
 stars	stars
-starsmerchant	starsmerchant
 start	start
 started	started
 starter	starter
@@ -19224,6 +19295,7 @@ suburbs	suburbs
 subversion	subversion
 subway	subway
 subwoofer	subwoofer
+subzero	subzero
 succeed	succeed
 succeeded	succeeded
 succeeding	succeeding
@@ -19444,6 +19516,7 @@ Suzuki	Suzuki
 Svalbard	Svalbard
 # svc	svc
 # svcd	svcd
+svelte	svelte
 Sven	Sven
 Svenska	Svenska
 SVG	SVG
@@ -19832,6 +19905,7 @@ tender	tender
 tenders	tenders
 tends	tends
 Tenerife	Tenerife
+tenet	tenet
 Tennessee	Tennessee
 tennis	tennis
 tenor	tenor
@@ -19860,6 +19934,7 @@ termination	termination
 terminator	terminator
 terming	terming
 terminology	terminology
+terminus	terminus
 terms	terms
 terra	terra
 terrace	terrace
@@ -19882,7 +19957,9 @@ terrorists	terrorists
 terry	terry
 tertiary	tertiary
 # tes	tes
-Tesco	Tesco
+# Tesco	Tesco
+tessellate	tessellate
+tessellation	tessellation
 test	test
 testament	testament
 tested	tested
@@ -19981,6 +20058,7 @@ thesaurus	thesaurus
 these	these
 theses	theses
 thesis	thesis
+thespian	thespian
 Thessalonians	Thessalonians
 theta	theta
 they	they
@@ -20119,6 +20197,7 @@ tiki	tiki
 tilde	tilde
 tile	tile
 tiles	tiles
+tiling	tiling
 till	till
 tilt	tilt
 Tim	Tim
@@ -20216,6 +20295,7 @@ toilets	toilets
 toilette	toilette
 Tokelau	Tokelau
 token	token
+tokenization	tokenization
 tokens	tokens
 Tokyo	Tokyo
 told	told
@@ -20705,6 +20785,7 @@ TV	TV
 # tw	tw
 twain	twain
 tweak	tweak
+tweaks	tweaks
 tweed	tweed
 tweet	tweet
 twelve	twelve
@@ -20818,6 +20899,7 @@ uncertain	uncertain
 uncertainties	uncertainties
 uncertainty	uncertainty
 unchanged	unchanged
+uncharted	uncharted
 unclassified	unclassified
 uncle	uncle
 unclear	unclear
@@ -21411,6 +21493,7 @@ vital	vital
 vitality	vitality
 vitamin	vitamin
 vitamins	vitamins
+vite	vite
 # vitro	vitro
 viva	viva
 Vivian	Vivian
@@ -21838,6 +21921,7 @@ whites	whites
 whitespace	whitespace
 whitewash	whitewash
 whitewater	whitewater
+whitish	whitish
 Whitman	Whitman
 Whitney	Whitney
 who	who
@@ -22296,6 +22380,7 @@ zeta	zeta
 # zh	zh
 # zhang	zhang
 # ziff	ziff
+zig	zig
 zigzag	zigzag
 Zimbabwe	Zimbabwe
 zinc	zinc
